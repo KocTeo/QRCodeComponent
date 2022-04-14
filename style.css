@@ -11,7 +11,7 @@ html, body {
 @media (min-width: 376px) {
   body {
     align-items: center;
-    background-image: url(../images/background.jpg);
+    background-image: url(./images/background.jpg);
     background-size: auto;
     display: flex;
     font-family: 'Outfit', sans-serif;
